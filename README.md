@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dimuthu Laksahan! 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Robotics+Enthusiast;Embedded+Systems+%26+IoT+Engineer;AI+%2F+Machine+Learning+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Full+stack+Developer;Embedded+Systems+%26+IoT+Engineer;AI+%2F+Machine+Learning+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
